@@ -6,7 +6,7 @@
 
 Who can help to design this page?
 
-<sub>I will change this README after learning english</sub>
+<sub>I'm changing this README.md after learning english</sub>
 <!---
 Rebxxt/Rebxxt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
